@@ -1,0 +1,8 @@
+transformers
+torch
+langchain
+openai
+llama-index
+fastapi
+uvicorn
+web3
